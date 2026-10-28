@@ -1,0 +1,6 @@
+{
+  "name": "Chiikawa Pet Raising Game",
+  "description": "A Tamagotchi-style pet raising game featuring Chiikawa characters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
